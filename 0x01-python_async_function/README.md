@@ -196,3 +196,16 @@ Import `wait_random` from `0-basic_async_syntax`. Write a function (do not creat
 
 Take the code from `wait_n` and alter it into a new function `task_wait_n`. The code is nearly identical to `wait_n` except `task_wait_random` is being called.
 ```
+
+1. Async IO in Python: A Complete Walkthrough:
+   - [Python's asyncio documentation](https://docs.python.org/3/library/asyncio.html)
+   - [Real Python's Async IO tutorial](https://realpython.com/async-io-python/)
+
+2. asyncio - Asynchronous I/O:
+   - [Python's asyncio documentation](https://docs.python.org/3/library/asyncio.html)
+   - [Python's asyncio tutorial](https://docs.python.org/3/library/asyncio-task.html)
+
+3. random.uniform:
+   - [Python's random module documentation](https://docs.python.org/3/library/random.html)
+   - [Python's random.uniform function documentation](https://docs.python.org/3/library/random.html#random.uniform)
+
